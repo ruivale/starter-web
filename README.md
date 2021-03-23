@@ -5,5 +5,9 @@ This is a simple website...
 This is example is to .....
 
 ## Purpose
+Who knows?
+
 ## Deployment
+To where we want
+
 ## How To Contribute
