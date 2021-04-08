@@ -11,3 +11,7 @@ Who knows?
 To where we want
 
 ## How To Contribute
+
+
+### Copyright
+2021 EFA
