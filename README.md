@@ -11,7 +11,7 @@ Who knows?
 To where we want
 
 ## How To Contribute
-
+Please read the RTFM
 
 ### Copyright
 2021 EFA
