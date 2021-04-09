@@ -2,6 +2,8 @@
 This is a simple website...
 some more changes due to rebasing example
 
+more changes from myfeature too
+
 ## Introdution
 This is example is to .....
 
